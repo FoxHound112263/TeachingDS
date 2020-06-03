@@ -1,0 +1,9 @@
+1. Si no se cuenta con alguna versión de Tableau instalada en el computador, descargar la
+   versión Tableau Public gratis del siguiente enlace: https://public.tableau.com/es-es/s/
+   suministrando cualquier correo electrónico.
+
+2. Contar con un correo de microsoft, como hotmail o outlook para poder llevar a cabo el registro
+   del servicio de Azure durante la clase.
+
+3. Contar con la carpeta del 16 de marzo llamada 'NLP' que ya fue compartida a través del grupo de Slack,
+   puesto que continuaremos con el caso que estábamos viendo.
